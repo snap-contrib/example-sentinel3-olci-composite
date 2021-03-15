@@ -1,4 +1,4 @@
-# example-vscode-remote-snap-sar-calibration
+# example-sentinel-3-olci-composite
 
 [![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
 
@@ -51,4 +51,4 @@ To get started, follow these steps:
 conda activate env_snap
 python setup.py install
 ``` 
-11. Exploit the `sar-calibration` command line utility or evolve the python project
+11. Exploit the Sentinel-3 OLCI RGB composite command line utility or evolve the python project
